@@ -23,6 +23,7 @@
         <TABLEATTRIBUTE NAME ="Thousand Separator" VALUE ="None"/>
         <TABLEATTRIBUTE NAME ="Decimal Separator" VALUE ="."/>
         <TABLEATTRIBUTE NAME ="Line Endings" VALUE ="System default"/>
+	<TABLEATTRIBUTE1 NAME ="Line Endings" VALUE ="System default"/>
     </TARGET>
     <MAPPING DESCRIPTION ="This mapping updates the LH_PROCS_FILES table with record counts for each stage." ISVALID ="YES" NAME ="M_LH_LOGGING_LH_PROCS_FILES_SUCCESS_BIOD_UPDATE" OBJECTVERSION ="1" VERSIONNUMBER ="1">
         <TRANSFORMATION COMPONENTVERSION ="1000000" DESCRIPTION ="" NAME ="SQL_UPDATE_LH_PROCS_FILES" OBJECTVERSION ="1" REUSABLE ="NO" TEMPLATEID ="310800" TEMPLATENAME ="SQL Transform" TYPE ="Custom Transformation" VERSIONNUMBER ="1">
